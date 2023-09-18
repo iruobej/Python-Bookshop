@@ -1,0 +1,21 @@
+ID,Genre,Title,Author,Purchase Price £,Purchase Date
+1,Sci-Fi,Spaceship,David Matthews,20,1/9/2009
+2,Drama,Peaky Blinders,Oluwaseun Omotayo,30,17/8/2010
+3,Fantasy,The Lost Children,Thomas Birkin,10.99,4/3/2007
+4,Classics,Professor Kent,Shaun Mason,12.99,1/1/2001
+5,Entertainment,Game Show,William Grounds,37,2/10/2003
+6,Sports,Blue Lock,Himoto Yamashi,6,8/9/2018
+7,Comedy,The Funny Guy,Micheal Smith,9,25/9/2020
+8,Fantasy,Undersea,Jacob Daniels,34,6/8/2009
+9,Drama,The Crown,Claire Foy,13,7/3/2018
+10,Action,Warrior Nun,Alba Baptista,23.93,9/10/2012
+11,Horror,Stranger Things,David Harbour,11.98,3/6/2016
+12,Comedy,Dead To Me,Linda Cardellini,15,3/3/2003
+13,Sci-Fi,Inception,Chris Nolan,8,3/9/2008
+14,Drama,1899,Emily Beecham,17,8/10/2022
+15,Thriller,Don't Worry Darling,Olivia Wilde,9,1/2/2004
+16,Action,Black Panther,Ryan Paulson,5.56,4/3/2011
+17,Classics,Goodfellas,Gbenga Oluwafemi,8,2/10/2002
+18,Action,The English,Tulsa King,16,13/9/2022
+19,Classics,Beauty and the Beast,13,Gary Trousdale,6/1/2009
+20,Classics,Swingers,9,Doug Liman,4/9/2000
